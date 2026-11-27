@@ -1,0 +1,10 @@
+{
+  "name": "bunbun-carrot-dash",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test:core": "node scripts/core_smoke_test.mjs"
+  }
+}
+
