@@ -1,4 +1,4 @@
-# Bunbun Carrot Dash
+# Garden Sprint
 
 A cozy 2D endless runner. Guide a bunny through the garden, collect carrots, and double-jump over fences and crates to keep your run going.
 
