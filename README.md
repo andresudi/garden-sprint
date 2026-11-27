@@ -1,8 +1,6 @@
 # Garden Sprint
 
-A cozy 2D endless runner. Guide a bunny through the garden, collect carrots, and double-jump over fences and crates to keep your run going.
-
-![Bunbun mid-jump with carrots, a crate, and a fence ahead](screenshots/gameplay.png)
+A browser-based 2D endless runner built with Canvas. Time your jumps, avoid obstacles, and collect items to improve your score.
 
 ## Play locally
 
